@@ -1,6 +1,6 @@
 # Estudos com Planilhas (Excel)
 
-Este diretório contém alguns exercícios e estudos envolvendo as fuções de planilhas automáticas do Excel. Foi reunido estudos da faculdade e do meu técnico de administração para a construção desse repositório, contendo funcionalidades simples como `maxima`, `media`, `minimo`, `soma`, `PROCV`,  ou até itens mais complexos como `macros`.
+Este diretório contém alguns exercícios e estudos envolvendo as fuções de planilhas automáticas do Excel. Foi reunido estudos da faculdade e do meu técnico em administração para a construção desse repositório, contendo funcionalidades simples como `maxima`, `media`, `minimo`, `soma`, `PROCV`,  ou até itens mais complexos como `macros`.
 
 Os arquivos estão separados da seguinte maneira:
 
