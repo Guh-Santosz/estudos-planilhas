@@ -1,8 +1,8 @@
-# 📈 Planilhas Comuns
+# Planilhas Comuns
 
 Esta pasta reúne alguns estudos que realizei utilizando planilhas do Excel. Os conteúdos são divididos em:
 
-## 📌 Conteúdo
+## Conteúdo
 
 | Arquivo               | Descrição                                                                 |
 |------------------------|--------------------------------------------------------------------------|
@@ -14,7 +14,7 @@ Esta pasta reúne alguns estudos que realizei utilizando planilhas do Excel. Os 
 
 ---
 
-## 🚀 como acessar
+## Como acessar
 
 - Baixa os arquivos
 - Abra com algum programa de visualização de planilhas(Excel, Google Planilhas etc).
