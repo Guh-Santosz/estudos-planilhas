@@ -1,10 +1,10 @@
-# 👨‍💻 Planilhas com Macros
+# Planilhas com Macros
 
 Organizei alguns estudos realizados com `macros` no Excel, sendo especialmente conteúdos de aulas. Os conteúdos são:
 
 > ⚠ Na maioria das planilhas não há muita validação já que o objetivo era apenas estudo.
 
-## 📌 Conteúdo
+## Conteúdo
 
 | Arquivo               | Descrição                                                                 |
 |------------------------|--------------------------------------------------------------------------|
@@ -14,12 +14,12 @@ Organizei alguns estudos realizados com `macros` no Excel, sendo especialmente c
 
 ---
 
-## 🚀 Como acessar
+## Como acessar
 
 - Baixa os arquivos
 - Abra com algum programa de visualização de planilhas(Excel, Google Planilhas etc).
 
-# ✅ Para habilitar o conteúdo macro:
+# Para habilitar o conteúdo macro:
 
 - Passo 1: 
 
